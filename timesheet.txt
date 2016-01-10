@@ -1,0 +1,55 @@
+11/08 21:00 - 24:00 install and learn pygame
+11/12 changed idea of term project to tower defense game
+11/14 17:00 - 20:00 learn pygame
+11/15 22:00 - 23:00 learn pygame
+11/16 22:00 - 01:30 initialize
+11/17 15:20 - 17:40 learned a lot about sprite; made monsters, attackers
+11/17 21:00 - 23:30 made a monster move in a direction
+		    made some attackers that could be placed in board
+		    but not yet able to attack
+11/18 20:30 - 23:00 made board of map (route)
+                    made Monster(s) recognize start place
+                    made the tower recognize end place
+      23:30 - 01:30 learned about GameObjects, which is for vectors
+11/19 10:30 - 12:30 made Attackers able to choose which ones to attack
+		    made Monsters able to recognize how to go along the route
+		    (for now, just down and right)
+		    mouse able to be AttackerA or not.
+11/20 21:00 - 24:00 monsters now ruuuun on routes that goes up.
+		    still fixing on how attackers choose monster to attack
+11/21 08:30 - 10:00 now attackers choose the right monster!
+		    Also able to rotate!
+11/21 21:00 - 00:30 now monsters and attackers changed back to classes!!!
+		    now bullets work! Angles not good though
+		    what to do next: if bullet meet monster, disappear
+		    if out of window, disappear
+		    if monster aimed died, go straight
+		    calculate money
+11/24 11:30 - 13:00 bullets and attackers rotate right
+11/24 13:30 - 17:30 added surfaces, level edit(part of)
+		    core basically done, adding shell
+11/24 20:30 - 22:30 added other things. level edit basically done	
+11/25 09:30 - 10:20 multiple monsters able to move
+      15:30 - 17:30 monsters could be detected by attacker
+      19:30 - 21:30 re-done get map, direction
+		    also fixed level edit, added level edit IsLegal
+11/26 00:30 - 03:00 multiple monsters could be recognized by attackers
+		    which ones is more important, according to route distance 
+		    from final tower
+		    able to attack the right thing
+11/26 14:00 - 16:30 added other function buttons, could let player self-edit monster
+  		    number in Level Edit
+11/29 22:00 - 23:00 bug fixes 
+		    added blood mark 
+		    added remove attackers
+11/30 14:00 - 18:00 changed structure of “game”
+12/01 00:00 - 02:30 added new attacker, working on
+12/01 15:00 - 16:30
+      17:00 - 18:00 got ideas from Audrey and added new features
+      23:00 - 00:30 fixing bugs for new features. Also survival mode
+12/02 15:30 - 21:30 fixed welcome page and implemented “save” and “continue”
+12/02 22:30 - 02:00 finalize. added scoring system. polishing.
+		    
+
+                  
+		    
